@@ -1,5 +1,7 @@
 <div align="center">
 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=50&duration=4000&pause=2000&color=000000&center=true&vCenter=true&random=false&width=430&lines=Hello%2C+my+little+cutey.;%E4%BD%A0%E5%A5%BD%E5%91%80%EF%BC%8C%E6%88%91%E7%9A%84%E5%B0%8F%E5%8F%AF%E7%88%B1%E3%80%82" alt="Typing SVG" /></a>
+  
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
     <img src="https://github.com/AQ-Life/AQ-Life/assets/133300267/fb660a18-9887-45c3-87bc-7921318971b3" />
