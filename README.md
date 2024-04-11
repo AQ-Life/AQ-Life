@@ -1,17 +1,8 @@
 <div align="center">
 
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div>
-    <a href="https://aq-life.github.io/qi.github.io/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);你好呀!小可爱!&center=true&size=27" />
-    </a>
-  </div>
-
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <img src="https://github.com/AQ-Life/AQ-Life/assets/133300267/fb660a18-9887-45c3-87bc-7921318971b3" />
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
@@ -67,34 +58,6 @@
 
 <tr><td>
 
-### 📃 Recent Blog
-
-### 🧠 Second Brain
-
-### 🤾‍♂️ Funny Soul
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               7 hrs 36 mins       ████████████░░░░░░░░░░░░░   46.45 % 
-JavaScript               2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Markdown                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Vue.js                   1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-JSON                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-
-🔥 Editors: 
-VS Code                  16 hrs 22 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      16 hrs 22 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 29/03/2024 01:15:34 UTC
-<!--END_SECTION:waka-->
 
 </td></tr>
 
